@@ -1,0 +1,25 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid red; */
+    gap: 20px;
+}
+p{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+}
+.btn{
+    display: flex;
+    gap: 20px;
+    
+}
+button{
+    border-radius: 20px;
+    
+    background-color: aqua;
+    padding: 15px;
+}
